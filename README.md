@@ -1,6 +1,6 @@
-# Blu TV Challenge
+# Simple CRM App
 
-BluTV challenge, Flask app with Mongodb and Redis. 
+Simple CRM challenge, Flask app with Mongodb and Redis. 
 
 I made my development on a Linux system so I hope there won't be edge cases that are not covered.
 
@@ -8,7 +8,7 @@ I made my development on a Linux system so I hope there won't be edge cases that
 
 ## Run with virtual environment
 ```bash
-export SECRET_KEY="blutv"
+export SECRET_KEY="deneme"
 export MONGO_HOST="localhost"
 export REDIS_HOST="localhost"
 export MONGO_PORT=27017
